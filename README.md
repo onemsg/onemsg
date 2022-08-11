@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working base Beijing
+- 🌱 I’m currently learning vert.x, react and more backend
+- 😄 My blog: [onemsg - juejin](https://juejin.cn/user/3597257778669592/posts)
+
 <!--
 **onemsg/onemsg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
