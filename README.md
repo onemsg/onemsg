@@ -1,7 +1,10 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working base Beijing
-- 🌱 I’m currently learning vert.x, react and more backend
+- 🔭 I’m currently working base Beijing as a backend engineer
+- 🔭 I’m currently interested in topics of java, reactive, project loom
+- 🌱 I’m currently focusing on microservices, cloud native
+- 😄 I hava Growth mindset, I like learn new and cool things
+- ⚡ I also like frontend, I like react and mui
 - 😄 My blog: [onemsg - juejin](https://juejin.cn/user/3597257778669592/posts)
 
 <!--
