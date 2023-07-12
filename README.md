@@ -5,7 +5,7 @@
 - 🌱 I’m currently focusing on microservices, cloud native
 - 😄 I hava Growth mindset, I like learn new and cool things
 - ⚡ I also like frontend, I like react and mui
-- 😄 My blog: [onemsg - juejin](https://juejin.cn/user/3597257778669592/posts)
+- 😄 My blog: [onemsgBlog]([https://juejin.cn/user/3597257778669592/posts](https://blog.onemsg.cn/))
 
 <!--
 **onemsg/onemsg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
